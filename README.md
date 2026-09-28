@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👨‍💻 Akash Maurya
+# Akash Maurya
 ### **AI/ML Engineer | Computer Vision | Deep Learning**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-maurya-97617a32)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauryaakash-ai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryaakash2005@gmail.com)
-[![Bennett University](https://img.shields.io/badge/Bennett%20University-B.Tech%20AI%20(8.71%20CGPA)-blue?style=for-the-badge)](#education)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-maurya-97617a32)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mauryaakash-ai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mauryaakash2005@gmail.com)
+[![Bennett University](https://img.shields.io/badge/Bennett%20University-B.Tech%20AI%20(8.71%20CGPA)-blue?style=flat)](#education)
 
 ```
-AI/ML  ➔  Computer Vision  ➔  Super-Resolution & Restoration  ➔  Self-Supervised Learning  ➔  Applied AI
+AI/ML  ->  Computer Vision  ->  Super-Resolution & Restoration  ->  Self-Supervised Learning  ->  Applied AI
 ```
 
 <p align="center">
@@ -20,16 +20,16 @@ AI/ML  ➔  Computer Vision  ➔  Super-Resolution & Restoration  ➔  Self-Supe
 
 </div>
 
-## 🎯 Primary Focus & Core Competencies
+## Primary Focus & Core Competencies
 
-- **Image Super-Resolution & Restoration:** Specialized in CNN & Vision Transformer backbones (**EDSR, ESRGAN, Real-ESRGAN, SwinIR, HAT, DRCT, SRTTA, SRCNN, FSRCNN, VDSR**).
-- **Self-Supervised Representation Learning:** Contrastive learning frameworks (**SimCLR**, NT-Xent loss) for label-efficient representation extraction.
+- **Image Super-Resolution & Restoration:** Specialized in CNN and Vision Transformer backbones (EDSR, ESRGAN, Real-ESRGAN, SwinIR, HAT, DRCT, SRTTA, SRCNN, FSRCNN, VDSR).
+- **Self-Supervised Representation Learning:** Contrastive learning frameworks (SimCLR, NT-Xent loss) for label-efficient representation extraction.
 - **Thermal & Biometric Vision:** Radiometric structure preservation in thermal imagery and specular reflection mitigation for animal biometrics.
-- **Evaluation & Benchmarking:** Dual-metric analysis (**PSNR / SSIM**) combined with visual artifact, edge preservation, and structural fidelity assessment.
+- **Evaluation & Benchmarking:** Dual-metric analysis (PSNR / SSIM) combined with visual artifact, edge preservation, and structural fidelity assessment.
 
 ---
 
-## 🔬 Core Technical Pipeline
+## Core Technical Pipeline
 
 ### Image Super-Resolution & Restoration Architecture
 
@@ -62,7 +62,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 <div align="center">
 
@@ -77,66 +77,66 @@ flowchart LR
 
 ---
 
-## 🚀 Featured Research & Projects
+## Featured Research & Projects
 
-### 🔬 1. Thermal Image Super-Resolution Research
+### 1. Thermal Image Super-Resolution Research
 * Enhanced degraded spatial resolution of low-cost thermal sensors while preserving radiometric temperature gradients and edge boundaries.
-* Benchmarked classical CNN models (`SRCNN`, `FSRCNN`, `VDSR`, `EDSR`) and Vision Transformers (`SwinIR`) using **PSNR, SSIM**, and thermal boundary analysis.
-* **Stack:** `Python`, `PyTorch`, `OpenCV`, `NumPy`, `Matplotlib`.
+* Benchmarked classical CNN models (SRCNN, FSRCNN, VDSR, EDSR) and Vision Transformers (SwinIR) using PSNR, SSIM, and thermal boundary analysis.
+* **Stack:** Python, PyTorch, OpenCV, NumPy, Matplotlib.
 
-### 📊 2. Real-World Super-Resolution Benchmark
-* Comparative study of modern super-resolution networks across diverse degradation distributions on `DIV2K`, `RealSR`, `Urban100`, `Vehicle-10`, and `PlantVillage Disease` datasets.
-* Evaluated models: `EDSR`, `VDSR`, `ESRGAN`, `Real-ESRGAN`, `SwinIR`, `HAT`, `DRCT`, `SRTTA`.
-* **Stack:** `PyTorch`, `Torchvision`, `Scikit-learn`, `Linux`.
+### 2. Real-World Super-Resolution Benchmark
+* Comparative study of modern super-resolution networks across diverse degradation distributions on DIV2K, RealSR, Urban100, Vehicle-10, and PlantVillage Disease datasets.
+* Evaluated models: EDSR, VDSR, ESRGAN, Real-ESRGAN, SwinIR, HAT, DRCT, SRTTA.
+* **Stack:** PyTorch, Torchvision, Scikit-learn, Linux.
 
-### 🔄 3. SimCLR Self-Supervised Representation Learning
+### 3. SimCLR Self-Supervised Representation Learning
 * Implemented contrastive visual representation learning using NT-Xent loss, stochastic data augmentation pairs, a shared CNN backbone, and a nonlinear projection head.
 * Validated representation quality via linear evaluation protocols without full class-label supervision.
-* **Stack:** `PyTorch`, `Torchvision`, `Matplotlib`.
+* **Stack:** PyTorch, Torchvision, Matplotlib.
 
-### 👁️ 4. Animal Biometric Identification
+### 4. Animal Biometric Identification
 * Research on non-invasive identification using corneal imaging; mitigated corneal specular reflection for buffalo iris feature isolation and explored pattern recognition for snake identification.
-* **Stack:** `OpenCV`, `Python`, `Scikit-learn`.
+* **Stack:** OpenCV, Python, Scikit-learn.
 
-### 🌾 5. KrishiShram — Farm Labour & Wage Management System
+### 5. KrishiShram — Farm Labour & Wage Management System
 * Full-stack web application automating daily farmer wage calculations, labour attendance, and database-backed record keeping.
-* **Stack:** `Python`, `Flask`, `SQLite`, `RESTful APIs`, `HTML/CSS/JS`, `Git`.
+* **Stack:** Python, Flask, SQLite, RESTful APIs, HTML/CSS/JS, Git.
 
-### 🎨 6. ImageLab — K-Means Image Compression
-* Pixel color quantization using K-Means clustering, achieving **40%–60% file size reduction** while preserving perceptual image quality.
-* **Stack:** `Python`, `OpenCV`, `Scikit-learn`.
+### 6. ImageLab — K-Means Image Compression
+* Pixel color quantization using K-Means clustering, achieving 40%–60% file size reduction while preserving perceptual image quality.
+* **Stack:** Python, OpenCV, Scikit-learn.
 
 ---
 
-## 💼 Experience
+## Experience
 
 * **Summer Research Intern** — *ViSecure Systems Pvt. Ltd.* *(June 2026 – August 2026)*
-  - Researched **10+ Super-Resolution architectures** and built synthetic/real-world paired dataset pipelines.
+  - Researched 10+ Super-Resolution architectures and built synthetic/real-world paired dataset pipelines.
   - Implemented self-supervised contrastive learning workflows (SimCLR) for label-efficient vision tasks.
 
 * **Research Intern** — *Ashoka University* *(June 2026 – September 2026)*
   - Researched animal biometric identification, image acquisition protocols, illumination correction, and specular reflection mitigation.
 
 * **Co-Founder & General Secretary** — *RoboGenesis Club, Bennett University* *(2024 – Present)*
-  - Leading a student community of **60+ members and 23 core team members**; conducting technical workshops in Python, OpenCV, and robotics.
+  - Leading a student community of 60+ members and 23 core team members; conducting technical workshops in Python, OpenCV, and robotics.
 
 ---
 
-## 🎓 Education, Honors & Certifications
+## Education, Honors & Certifications
 
 * **Bennett University** — *B.Tech in Artificial Intelligence* (2024 – 2028) | **CGPA: 8.71 / 10**
-* 🥇 **DST INSPIRE Scholarship** — Awarded by the *Department of Science & Technology*, Govt. of India.
-* 🥈 **Academic Silver Medal** — *Top 10 State Merit List*, Class XII (UP Board: 88.0% | Class X: 92.17%).
-* 📜 **Certifications:** *Neural Networks and Deep Learning (DeepLearning.AI)* • *Google AI Essentials* • *Prompt Engineering (Infosys)*.
+* **DST INSPIRE Scholarship** — Awarded by the *Department of Science & Technology*, Govt. of India.
+* **Academic Silver Medal** — *Top 10 State Merit List*, Class XII (UP Board: 88.0% | Class X: 92.17%).
+* **Certifications:** *Neural Networks and Deep Learning (DeepLearning.AI)* • *Google AI Essentials* • *Prompt Engineering (Infosys)*.
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash_Maurya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-maurya-97617a32)
-[![Email](https://img.shields.io/badge/Email-mauryaakash2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryaakash2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mauryaakash--ai-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauryaakash-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash_Maurya-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-maurya-97617a32)
+[![Email](https://img.shields.io/badge/Email-mauryaakash2005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mauryaakash2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mauryaakash--ai-100000?style=flat&logo=github&logoColor=white)](https://github.com/mauryaakash-ai)
 
 </div>
