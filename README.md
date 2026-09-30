@@ -131,12 +131,4 @@ flowchart LR
 
 ---
 
-## Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash_Maurya-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-maurya-97617a32)
-[![Email](https://img.shields.io/badge/Email-mauryaakash2005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mauryaakash2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mauryaakash--ai-100000?style=flat&logo=github&logoColor=white)](https://github.com/mauryaakash-ai)
-
-</div>
